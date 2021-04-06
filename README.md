@@ -14,7 +14,7 @@
 
 ## 예시
 
-<img width:"80%" src="./src/BE_Function.gif">
+<img width:80% src="./src/BE_Function.gif">
 
 - DB 목록
   <img srg="./src/DB_list01">
